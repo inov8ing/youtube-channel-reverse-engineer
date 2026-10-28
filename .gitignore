@@ -1,0 +1,21 @@
+# Research outputs (generated per run, never committed)
+channel-research/
+*.csv
+!templates/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local media (only analyse files you own or are authorised to use)
+*.mp4
+*.mov
+*.mkv
+*.webm
+contact-sheet*.jpg
+
+# OS / editor
+.DS_Store
+Thumbs.db
